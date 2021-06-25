@@ -1,0 +1,13 @@
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\bin\Debug\netcoreapp3.1\FirstVsApp.exe
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\bin\Debug\netcoreapp3.1\FirstVsApp.deps.json
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\bin\Debug\netcoreapp3.1\FirstVsApp.runtimeconfig.json
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\bin\Debug\netcoreapp3.1\FirstVsApp.runtimeconfig.dev.json
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\bin\Debug\netcoreapp3.1\FirstVsApp.dll
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\bin\Debug\netcoreapp3.1\FirstVsApp.pdb
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\obj\Debug\netcoreapp3.1\FirstVsApp.csprojAssemblyReference.cache
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\obj\Debug\netcoreapp3.1\FirstVsApp.AssemblyInfoInputs.cache
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\obj\Debug\netcoreapp3.1\FirstVsApp.AssemblyInfo.cs
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\obj\Debug\netcoreapp3.1\FirstVsApp.csproj.CoreCompileInputs.cache
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\obj\Debug\netcoreapp3.1\FirstVsApp.dll
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\obj\Debug\netcoreapp3.1\FirstVsApp.pdb
+D:\DotNet\Day1\FirstVsApp\FirstVsApp\obj\Debug\netcoreapp3.1\FirstVsApp.genruntimeconfig.cache
